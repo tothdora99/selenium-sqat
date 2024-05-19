@@ -18,7 +18,7 @@ import java.net.MalformedURLException;
 import java.nio.charset.StandardCharsets;
 
 
-public class FirstSeleniumTest {
+public class SeleniumTest {
     public WebDriver driver;
     
     @Before
